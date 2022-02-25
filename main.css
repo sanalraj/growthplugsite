@@ -1,0 +1,222 @@
+
+.button1 {position: absolute;
+    margin-top: 8px;
+    margin-left: 80px;    
+    }
+.dropbtn {
+  background-color: white;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: absolute;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: #f1f1f1;
+  min-width: 140px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: white;}
+    
+.dropbtn2 {
+  background-color: white;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown2 {
+  position: absolute;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: #f1f1f1;
+  min-width: 40px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown2:hover .dropdown-content {display: block;}
+
+.dropdown2:hover .dropbtn2 {background-color: white;}    
+    
+     .button2 {position: absolute;
+    margin-top: 8px;
+    margin-left: 500px;    
+    }
+    
+    .dropbtn3 {
+  background-color: white;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown3 {
+  position: absolute;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: #f1f1f1;
+  min-width: 40px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown3:hover .dropdown-content {display: block;}
+
+.dropdown3:hover .dropbtn3 {background-color: white;}
+    
+      .button3 {position: absolute;
+    margin-top: 8px;
+    margin-left: 750px;    
+    }
+     .button4 {position: absolute;
+    margin-top: 8px;
+    margin-left: 870px;    
+    }
+    
+    
+     .img2{
+            margin-left: 375px;
+        } 
+        .text1{
+            position: relative;
+            top: -380px;
+            left: 580px;
+            color: black;
+        }
+        .button5{
+           position: absolute;
+            margin-left: 560px;
+            top: 500px;
+        }
+        .text {position: absolute;
+        margin-left: 540px;
+        font-size: 24px;
+        top: 850px;}
+        .text2 {position: absolute;
+        margin-left: 520px;
+        font-size: 24px;
+        top: 940px;
+        letter-spacing: 2px;
+        color: gray;}
+        
+        .button6{
+           position: absolute;
+            margin-left: 160px;
+            top: 1050px;}
+        .button7{
+           position: absolute;
+            margin-left: 550px;
+            top: 1050px;}
+        .button8{
+           position: absolute;
+            margin-left: 940px;
+            top: 1050px;}
+        .box {position: absolute;
+        margin-top: 450px;}
+        .text4 {position: absolute;
+        margin-top: 500px;
+        margin-left: 600px;}
+        .image3 {position: absolute;
+        margin-top: 680px;
+        margin-left:70px; }
+        .text5 {position: absolute;
+        margin-top: 660px;
+        margin-left: 550px;
+        margin-right: 80px;
+        font-size: 21px;
+        letter-spacing: 1px;}
+        .button9 {position: absolute;
+        margin-top: 1580px;
+        margin-left: 780px;}
+         .text6 {position: absolute;
+        margin-top: 1700px;
+        margin-left: 600px;}
+        .image4 {position: absolute;
+        margin-top: 1850px;
+        margin-left:70px; }
+        .text7 {position: absolute;
+        margin-top: 1820px;
+        margin-left: 550px;
+        margin-right: 80px;
+        font-size: 21px;
+        letter-spacing: 1px;}
+        .text8{
+            position: absolute;
+            margin-top: 2360px;
+            margin-left: 550px;
+        }
+        .button10{
+           position: absolute;
+            margin-left: 100px;
+            top: 3340px;}
+        .button11{
+           position: absolute;
+            margin-left: 700px;
+            top: 3340px;}
+        .button12{
+           position: absolute;
+            margin-left: 100px;
+            top: 3390px;}
+        .button13{
+           position: absolute;
+            margin-left: 700px;
+            top: 3390px;}
+        .button14{
+           position: absolute;
+            margin-left: 100px;
+            top: 3440px;}
+        .button15{
+           position: absolute;
+            margin-left: 700px;
+            top: 3440px;}
+        .button16{
+           position: absolute;
+            margin-left: 100px;
+            top: 3490px;}
+        .button17{
+           position: absolute;
+            margin-left: 700px;
+            top: 3490px;}
